@@ -1,4 +1,5 @@
 # hello-world
 first repository,
 
-hello, im julise and i like titties and fine art.
+hello, i'm julise and i like titties and fine art.
+I could go on but i think that sums thing up quite nicely.
